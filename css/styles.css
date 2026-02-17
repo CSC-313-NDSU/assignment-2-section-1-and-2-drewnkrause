@@ -1,0 +1,25 @@
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+#rr {
+    background: #ff0000;
+    background: linear-gradient(90deg,rgba(255, 0, 0, 1) 0%, rgba(0, 0, 255, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#name {
+    background: #2796c2;
+    background: linear-gradient(115deg,rgba(39, 150, 194, 1) 0%, rgba(7, 102, 37, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #2796c2;
+}
+
+.work {
+    background-color: #ffc60080 !important;
+}
+.class {
+    background-color: #00583d80 !important;
+}
